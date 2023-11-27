@@ -1,0 +1,20 @@
+E:\code training\C#\網路程式設計期末報告\final_project_Server\final_project_Server\bin\Debug\final_project_Server.exe.config
+E:\code training\C#\網路程式設計期末報告\final_project_Server\final_project_Server\bin\Debug\final_project_Server.exe
+E:\code training\C#\網路程式設計期末報告\final_project_Server\final_project_Server\bin\Debug\final_project_Server.pdb
+E:\code training\C#\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.csprojAssemblyReference.cache
+E:\code training\C#\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.Form1.resources
+E:\code training\C#\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.Properties.Resources.resources
+E:\code training\C#\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.csproj.GenerateResource.cache
+E:\code training\C#\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.csproj.CoreCompileInputs.cache
+E:\code training\C#\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.exe
+E:\code training\C#\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.pdb
+E:\NPTU作業\網路程式設計期末報告\final_project_Server\final_project_Server\bin\Debug\final_project_Server.exe.config
+E:\NPTU作業\網路程式設計期末報告\final_project_Server\final_project_Server\bin\Debug\final_project_Server.exe
+E:\NPTU作業\網路程式設計期末報告\final_project_Server\final_project_Server\bin\Debug\final_project_Server.pdb
+E:\NPTU作業\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.csprojAssemblyReference.cache
+E:\NPTU作業\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.Form1.resources
+E:\NPTU作業\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.Properties.Resources.resources
+E:\NPTU作業\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.csproj.GenerateResource.cache
+E:\NPTU作業\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.csproj.CoreCompileInputs.cache
+E:\NPTU作業\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.exe
+E:\NPTU作業\網路程式設計期末報告\final_project_Server\final_project_Server\obj\Debug\final_project_Server.pdb

@@ -1,0 +1,36 @@
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\bin\Debug\final_project.exe.config
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\bin\Debug\final_project.exe
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\bin\Debug\final_project.pdb
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.csprojAssemblyReference.cache
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.Form1.resources
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.Properties.Resources.resources
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.csproj.GenerateResource.cache
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.csproj.CoreCompileInputs.cache
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.exe
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.pdb
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\Interop.MediaPlayer.dll
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\Interop.WMPDXMLib.dll
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\Interop.WMPLauncher.dll
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\Interop.WMPLib.dll
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.csproj.ResolveComReference.cache
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\obj\Debug\AxInterop.WMPLib.dll
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\bin\Debug\Interop.WMPLib.dll
+E:\code training\C#\網路程式設計期末報告\final_project\final_project\bin\Debug\AxInterop.WMPLib.dll
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\bin\Debug\final_project.exe.config
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\bin\Debug\final_project.exe
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\bin\Debug\final_project.pdb
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\bin\Debug\Interop.WMPLib.dll
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\bin\Debug\AxInterop.WMPLib.dll
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.csprojAssemblyReference.cache
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\Interop.MediaPlayer.dll
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\Interop.WMPDXMLib.dll
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\Interop.WMPLauncher.dll
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\Interop.WMPLib.dll
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\AxInterop.WMPLib.dll
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.csproj.ResolveComReference.cache
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.Form1.resources
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.Properties.Resources.resources
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.csproj.GenerateResource.cache
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.csproj.CoreCompileInputs.cache
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.exe
+E:\NPTU作業\網路程式設計期末報告\final_project\final_project\obj\Debug\final_project.pdb
